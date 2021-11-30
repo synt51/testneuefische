@@ -5,4 +5,4 @@ echo Hallo $varname. Und dein Nachname?
 read varsurname.
 echo Hallo $varname $varsurname. Schön, dass du da bist. Woher kommst du eigentlich?
 read varcity
-echo Ah cool, varcity ist eine schöne Stadt.
+echo Ah cool, $varcity ist eine schöne Stadt.
