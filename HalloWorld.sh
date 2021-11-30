@@ -1,6 +1,7 @@
-echo Hallo World
+echo Hallo World.
 echo Hallo wer bist du?
-read varname
+read varname.
 echo Hallo $varname. Und dein Nachname?
-read varsurname
-echo Hallo $varname $varsurname
+read varsurname.
+echo Hallo $varname $varsurname. Schön, dass du da bist.
+
