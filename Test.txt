@@ -1,1 +1,2 @@
 Das ist ein Test.
+Eine zweite Zeile wurde durch den Branch "test" hinzugefügt.
